@@ -7,7 +7,7 @@ const ADMIN_EMAILS = [
   'content1@toppagerankers.com',
 ]
 
-const ADMIN_PASSWORD = 'CHANGE_THIS_ADMIN_PASSWORD'
+const ADMIN_PASSWORD = 'Umer@1122###'
 const MEMBER_SESSION_KEY = 'attendance_member_session_v1'
 const ADMIN_SESSION_KEY = 'attendance_admin_session_v1'
 const BREAK_TYPES = ['first break', 'second break', 'third break', 'extra break']
